@@ -1,4 +1,4 @@
-Okuno Haruka 
+﻿Okuno Haruka 
 Sayaka Kubouchi
 Hideki Yoshikawa
 Miwa Hayashi
@@ -6,3 +6,4 @@ Mitsuka Ogasawara
 Takeshi Osaki
 
 ———12/07———
+Test from Windows OkuHaru
